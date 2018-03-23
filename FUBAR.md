@@ -28,4 +28,9 @@ Bob and Alice plotting to take over the WORLD...with merge conflicts (and we lov
 Carol screwing around on the master with hopes of causing a mess in git!!!!!!!!
 Getting rejected so trying again!
 
+
+writing something to cause a conflict.... :P :D 
+Catssssssss
+
 Carol feels this assignment was really fun and wants everyone to smile and give each other a high 55 after we finish this assignment!!! 
+
