@@ -9,3 +9,11 @@ You are all going to regret this because I intentionally didn't pull. -Bob and C
 
 Bob and Carol created a merge conflict to see how y'all can handle a stressful situation. 
 
+
+- Why should you never trust atoms?
+
+
+POEM BY ALICE
+There once was a weevil in my bread.
+I took a bite and bit off his head.
+
